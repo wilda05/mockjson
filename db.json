@@ -7,7 +7,7 @@
 "comments": [
   { "id": 1, "body": "comment 1", "postid": 1 },
   { "id": 2, "body": "comment 1", "postid": 2 }
-},
+ ],
 "profile": {
 "name": "Profile 1"
 }
